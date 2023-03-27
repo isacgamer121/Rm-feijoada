@@ -4,7 +4,7 @@ html, body{
 }
 
 
-section h1 h3{
+section h1, section h3{
 color: rgb(153,51,153);
 }
 
