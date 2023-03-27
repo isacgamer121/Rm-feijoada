@@ -1,0 +1,61 @@
+html, body{
+  height: 100%;
+  overflow-x: hidden;
+}
+
+header, .top{
+  padding: 15px 0px;
+  background: rgba(150, 80, 0, 0.8);
+  text-align: center;
+}
+
+footer {
+  text-indent: 5px;
+  background: #000;
+  padding: 50px 0px 20px 0px;
+  position: relative;
+  color: #e7c8d3;
+  
+  
+}
+
+footer h1{font-size:1.5em;}
+
+.btn-custom {
+  color: white;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+    padding: 10px 20px;
+}
+
+.btn-what
+{
+  background:#2ab200;
+}
+.btn-what:hover
+{
+  background:#c8fcb8;
+  color:#2ab200;
+}
+
+ #servicos{
+  background:#b11f46;
+  padding: 20px;
+  
+ }
+
+ div .carousel-caption{
+  color:white;
+ }
+
+ div .carousel-item{
+  text-align: center;
+ }
+section#home{
+
+  background: rgba(0, 0, 0, 0.9);
+}
+
